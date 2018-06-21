@@ -1,3 +1,2 @@
-# word2vec_textrank
-#word2vec加textrank抽取文章摘要
+# word2vec加textrank抽取文章摘要  
 使用word2vec计算句子间的相似度，然后使用PageRank计算句子分数，抽取前n个句子作为文本摘要。
